@@ -11,7 +11,7 @@ Purpose of the this coding challenge is to learn Git basics operations.
 
 At the end of the this coding challenge, students will be able to;
 
-- clone a repositoriy from GitHub
+- clone a repository from GitHub
 
 - make basic Git operations in local repository
 
