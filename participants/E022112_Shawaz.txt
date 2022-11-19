@@ -1,0 +1,7 @@
+Name: Shawaz
+Age: 28
+Location: Boston, MA
+Width: 30 inches
+Length: 63 inches
+Color: Brown
+Clarusway_ID: E022112
