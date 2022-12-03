@@ -28,8 +28,9 @@ E022110-Olga
 jjhgfhgf
 
 cccc
-T022232-ÖmerÖ.
+T022232-ÖmerÖ. 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
@@ -57,14 +58,30 @@ Ali Yiğit
 =======
 >>>>>>> 1740cb0b8ba57ac8fe08b7710c87a06b3a98aa58
 T022172-Furkan SB
+=======
+
+> > > > > > > T022279- Muhammed
+>>>>>>> 6cf908e27b237e8e9c0f4c1d8325cb584c8e2039
 
 <<<<<<< HEAD
 >>>>>>> fd478d89773689277857eedd3681b9bfd733c127
 =======
 > > > > > > > F3675-August
+
+
+> > > > > > > T022172-Furkan SBAdam
+> > > > > > > Adam
+
+> > > > > > > 35127af56609314fb9d474f4d96969546e7bcc5b
+
+
 > > > > > > > F3561-Huseyin
+<<<<<<< HEAD
 >>>>>>> 1740cb0b8ba57ac8fe08b7710c87a06b3a98aa58
 
 
 
 
+=======
+> > > > > > > 1740cb0b8ba57ac8fe08b7710c87a06b3a98aa58
+>>>>>>> 6cf908e27b237e8e9c0f4c1d8325cb584c8e2039
