@@ -30,6 +30,7 @@ T022232-ÖmerÖ.
 
 
 
+<<<<<<< HEAD
 T022172-Furkan SB
 > > > > > > > F3675-August
 <<<<<<< HEAD
@@ -40,3 +41,7 @@ Ali Yiğit
 
 
 > > > > > > >T022151-mustafa özgür
+=======
+
+> > > > > > > F3675-August 
+>>>>>>> 3b7dc54b1569afd02c4ed6586e3b66f4142da03b
