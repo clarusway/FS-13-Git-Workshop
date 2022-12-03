@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 E022107-Baran
-=======
 E022110-Olga
 
 > > > > > > > f9416db4616adfc2ae396457e15cf07918fa53c3
@@ -26,4 +24,4 @@ jjhgfhgf
 
 
 cccc
->>>>>>>>>>>>>T022288 - mehmet karaarslan
+T022269-Kadir
