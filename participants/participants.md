@@ -20,6 +20,7 @@ E022110-Olga
 > > > > > > > T022264 - Ahmet
 > > > > > > > C8340-Leo
 > > > > > > > F3604 - Mehmed
+> > > > > > > F4219 - Akif
 hayriye
 
 jjhgfhgf
@@ -44,4 +45,8 @@ Ali Yiğit
 =======
 
 > > > > > > > F3675-August 
+<<<<<<< HEAD
 >>>>>>> 3b7dc54b1569afd02c4ed6586e3b66f4142da03b
+=======
+> > > > > > > T022172-Furkan SB
+>>>>>>> 177687e808a11c8fbd4f67b74d1c5ca3d8ea2f13
