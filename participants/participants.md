@@ -35,12 +35,12 @@ T022232-ÖmerÖ.
 
 > > > > > > > F3675-August
 
-> > > > > > > F3675-August
+
 > > > > > > > T022172-Furkan SBAdam
 > > > > > > > Adam
 
 > > > > > > > 35127af56609314fb9d474f4d96969546e7bcc5b
 
-> > > > > > > F3675-August
+
 > > > > > > > F3561-Huseyin
 > > > > > > > 1740cb0b8ba57ac8fe08b7710c87a06b3a98aa58
