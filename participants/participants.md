@@ -18,10 +18,20 @@ E022110-Olga
 > > > > > > > T022170 - Ali
 > > > > > > > T022120 - Batur Eren
 > > > > > > > T022264 - Ahmet
+> > > > > > > C8340-Leo
 hayriye
 
 jjhgfhgf
 
 
 cccc
+<<<<<<< HEAD
 T022269-Kadir
+=======
+T022232-ÖmerÖ.
+
+
+
+T022172-Furkan SB
+> > > > > > > F3675-August
+>>>>>>> refs/remotes/origin/main
