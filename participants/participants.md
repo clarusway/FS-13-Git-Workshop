@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 E022107-Baran
-=======
 E022110-Olga
 
 > > > > > > > f9416db4616adfc2ae396457e15cf07918fa53c3
@@ -19,6 +17,8 @@ E022110-Olga
 > > > > > > > conftlict
 > > > > > > > T022170 - Ali
 > > > > > > > T022120 - Batur Eren
+> > > > > > > T022264 - Ahmet
+> > > > > > > C8340-Leo
 hayriye
 
 jjhgfhgf
@@ -28,3 +28,6 @@ cccc
 T022232-ÖmerÖ.
 
 
+
+T022172-Furkan SB
+> > > > > > > F3675-August
