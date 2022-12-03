@@ -32,4 +32,11 @@ T022232-ÖmerÖ.
 
 T022172-Furkan SB
 > > > > > > > F3675-August
+<<<<<<< HEAD
 > > > > > > > T022151-MUSTAFA
+=======
+Ali Yiğit
+>>>>>>> b3874bc756c65629a6b67cab0435dfce7fe9f6c7
+
+
+> > > > > > >T022151-mustafa özgür
