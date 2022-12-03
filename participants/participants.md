@@ -19,13 +19,5 @@ E022110-Olga
 > > > > > > > T022120 - Batur Eren
 > > > > > > > T022264 - Ahmet
 > > > > > > > C8340-Leo
-hayriye
-
-jjhgfhgf
-
-
-cccc
-
-
-T022172-Furkan SB
+> > > > > > >T022172-Furkan SB
 > > > > > > > F3675-August
