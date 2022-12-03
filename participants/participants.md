@@ -29,18 +29,47 @@ jjhgfhgf
 
 cccc
 T022232-ÖmerÖ. 
-
+> > > > > > > F4613-ismet
 
 > > > > > > > T022279- Muhammed
 
+<<<<<<< HEAD
+T022172-Furkan SB
+
+> > > > > > > F3675-Augustzeeee
+=======
+>>>>>>> c7cc641669d28ff215d1ab6fe0d302be1b48edfa
 > > > > > > > F3675-August
 
-> > > > > > > F3675-August
+
 > > > > > > > T022172-Furkan SBAdam
 > > > > > > > Adam
 
 > > > > > > > 35127af56609314fb9d474f4d96969546e7bcc5b
 
-> > > > > > > F3675-August
+
 > > > > > > > F3561-Huseyin
 > > > > > > > 1740cb0b8ba57ac8fe08b7710c87a06b3a98aa58
+
+> > > > > > > T022143-Yusuf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> > > > > > > T022326-Soner
+
+T022209-Liva
