@@ -31,6 +31,6 @@ T022232-ÖmerÖ.
 
 
 
-T022172-Furkan SB
-> > > > > > > F3675-August
-Ali Yiğit
+
+> > > > > > > F3675-August 
+> > > > > > > T022172-Furkan SB
