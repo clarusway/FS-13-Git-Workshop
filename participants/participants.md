@@ -22,23 +22,16 @@ E022110-Olga
 > > > > > > > F3604 - Mehmed
 > > > > > > > T022182 - MUHAMMED
 > > > > > > > F4219 - Akif
-hayriye
->>>>>>> 871ab3d2500d995d58aff0e2aad856ca556594d2
+> > > > > > > hayriye
+> > > > > > > 871ab3d2500d995d58aff0e2aad856ca556594d2
 
 jjhgfhgf
 
-
 cccc
-T022232-ÖmerÖ.
-
-
-
-
-> > > > > > > F3675-August 
-> > > > > > > T022172-Furkan SB
-
-
+T022232-ÖmerÖ. 
 
 
 > > > > > > > T022279- Muhammed
 
+> > > > > > > F3675-August
+> > > > > > > F3561-Huseyin
