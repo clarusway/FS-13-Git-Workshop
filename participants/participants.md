@@ -78,4 +78,12 @@ T022209-LivaT022185-Selim
 
 
 
+<<<<<<< HEAD
 T022311-Huseyin
+
+
+> > > > > > > F1520-Mehmet
+
+=======
+T022311-Huseyin
+>>>>>>> 1422c7db145d0f19b9330932c5034171cd6b3c68
