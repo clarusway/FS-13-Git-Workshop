@@ -20,8 +20,12 @@ E022110-Olga
 > > > > > > > T022170 - Ali
 > > > > > > > T022120 - Batur Eren
 > > > > > > > T022264 - Ahmet
+<<<<<<< HEAD
 > > > > > > > C8340-Leo
 > > > > > > > F3604-Mehmed
+=======
+> > > > > > > C8340 - Leo
+>>>>>>> bff10eb4501f0f6aa93a7f5ad3253c2be7284f1b
 hayriye
 
 jjhgfhgf
