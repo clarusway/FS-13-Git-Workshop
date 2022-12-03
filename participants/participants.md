@@ -26,13 +26,4 @@ jjhgfhgf
 
 
 cccc
-<<<<<<< HEAD
 T022269-Kadir
-=======
-T022232-ÖmerÖ.
-
-
-
-T022172-Furkan SB
-> > > > > > > F3675-August
->>>>>>> refs/remotes/origin/main
