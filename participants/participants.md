@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 E022107-Baran
-=======
 E022110-Olga
 
 > > > > > > > f9416db4616adfc2ae396457e15cf07918fa53c3
@@ -19,11 +17,52 @@ E022110-Olga
 > > > > > > > conftlict
 > > > > > > > T022170 - Ali
 > > > > > > > T022120 - Batur Eren
-hayriye
+> > > > > > > T022264 - Ahmet
+> > > > > > > C8340-Leo
+> > > > > > > F3604 - Mehmed
+> > > > > > > T022182 - MUHAMMED
+> > > > > > > F4219 - Akif
+> > > > > > > hayriye
+> > > > > > > 871ab3d2500d995d58aff0e2aad856ca556594d2
 
 jjhgfhgf
 
-
 cccc
+T022232-ÖmerÖ. 
 
-SONER YILMAZ
+
+> > > > > > > T022279- Muhammed
+
+> > > > > > > F3675-August
+
+
+> > > > > > > T022172-Furkan SBAdam
+> > > > > > > Adam
+
+> > > > > > > 35127af56609314fb9d474f4d96969546e7bcc5b
+
+
+> > > > > > > F3561-Huseyin
+> > > > > > > 1740cb0b8ba57ac8fe08b7710c87a06b3a98aa58
+
+> > > > > > > T022143-Yusuf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> > > > > > > T022326-Soner
+
