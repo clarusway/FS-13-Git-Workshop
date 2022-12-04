@@ -1,2 +1,0 @@
-hi. this my file
-#lorem50
